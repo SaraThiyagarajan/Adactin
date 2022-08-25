@@ -109,6 +109,6 @@ public class HotelJunit extends BaseClass {
 		Thread.sleep(8000);
 		System.out.println("orderno for your booking is"
 				+ driver.findElement(By.xpath("//input[@id='order_no']")).getAttribute("value"));
-
+System.out.println("ashdjadhdhaoidfcoiqojdfciqa");
 	}
 }
